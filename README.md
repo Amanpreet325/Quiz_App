@@ -23,67 +23,23 @@ This is a web-based quiz application that fetches quiz data from a provided API 
 
 ---
 
-## **Setup Instructions**
-Follow these steps to set up and run the project locally:
-
 ### **Prerequisites**
 - Node.js (v18.x or higher)
 - npm (v9.x or higher)
 
-### **Steps**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/quiz-app.git
-   cd quiz-app
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Start the development server:
-   ```bash
-   npm start
-   ```
-
-4. Open your browser and navigate to `http://localhost:3000` to view the application.
-
----
-
-## **Submission Guidelines**
-1. **Source Code**: Submit the complete source code via a GitHub repository link.
-2. **README File**: Include a `README.md` file with setup instructions and a project overview.
-3. **Screenshots and Videos**:
-   - Add screenshots of the UI (e.g., quiz questions, progress bar, result summary).
-   - Include a short video walkthrough of the app in action.
-
-### **Example Screenshots**
-- **Quiz Start Page**:
-  ![Quiz Start Page](./screenshots/start-page.png)
-- **Quiz Question**:
-  ![Quiz Question](./screenshots/question.png)
-- **Result Summary**:
-  ![Result Summary](./screenshots/result.png)
 
 ### **Example Video Walkthrough**
-[Watch the app in action](https://www.youtube.com/watch?v=example-video-link)
 
----
 
-## **GitHub Repository**
-[Link to GitHub Repository](https://github.com/your-username/quiz-app)
+https://github.com/user-attachments/assets/b98cb7d4-8293-40cb-a550-498be340fa88
 
----
+https://github.com/user-attachments/assets/0a6f030a-a3fa-41bd-a776-0d76044fee7b
 
-## **Contributors**
-- [Your Name](https://github.com/your-username)
 
----
 
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
-Let me know if you need further assistance!
+
+
+
+
